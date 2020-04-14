@@ -1,4 +1,6 @@
 body {
 	color: brown;
-	font-weight: 500;
+	font-weight: 700;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: underline;
 }
